@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Antonio 👋
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonioserafimsiqueira/)
 
-![IgorSiqueira2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSiqueira2001&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSiqueira2001&theme=tokyonight&layout=compact)
+![IgorSiqueira2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSiqueira2001&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSiqueira2001&theme=tokyonight&layout=compact)
 
 ## Tecnologias que eu tenho conhecimento
 <div style="display: inline_block"><br/>
